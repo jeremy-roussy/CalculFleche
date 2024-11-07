@@ -1,0 +1,33 @@
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\bin\Debug\CalculFleche.exe
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\bin\Debug\CalculFleche.pdb
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.AssemblyReference.cache
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form1.resources
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Properties.Resources.resources
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.GenerateResource.cache
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.CoreCompileInputs.cache
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.exe
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.pdb
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form2.resources
+C:\Users\j.roussy\source\repos\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form3.resources
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\bin\Debug\CalculFleche.exe
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\bin\Debug\CalculFleche.pdb
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.AssemblyReference.cache
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form1.resources
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form2.resources
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form3.resources
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Properties.Resources.resources
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.GenerateResource.cache
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.CoreCompileInputs.cache
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.exe
+C:\Users\j.roussy\Documents\Cours Informatique\MSE - développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.pdb
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\bin\Debug\CalculFleche.exe
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\bin\Debug\CalculFleche.pdb
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.AssemblyReference.cache
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form1.resources
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form2.resources
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Form3.resources
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.Properties.Resources.resources
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.GenerateResource.cache
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.csproj.CoreCompileInputs.cache
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.exe
+C:\Users\j.roussy\Documents\Cours Informatique\3A\Développement rapide d'application\CalculFleche\CalculFleche\obj\Debug\CalculFleche.pdb

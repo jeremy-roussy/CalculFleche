@@ -1,0 +1,54 @@
+------------------------------  27-01-2023 13:22  ------------------------------
+
+Type de simulation :
+
+-- Veuillez choisir le contexte --
+
+Paramètres :
+- longueur de la poutre : 1 m
+- longueur a/m : 0 m
+- charge : 1 kg
+- matériau : Acier de construction
+- module d'Young : 210000000000 Pa
+- type de section : Rectangulaire
+- moment d'inertie : 0,0833333333333333 m^4
+- limite élastique : 250000 Pa
+
+La poutre a résistée, la valeur de sa flèche maximale est de :  m
+
+------------------------------  27-01-2023 13:22  ------------------------------
+
+Type de simulation :
+
+-- Veuillez choisir le contexte --
+
+Paramètres :
+- longueur de la poutre : 1 m
+- longueur a/m : 0 m
+- charge : 1 kg
+- matériau : Acier de construction
+- module d'Young : 210000000000 Pa
+- type de section : Rectangulaire
+- moment d'inertie : 0,0833333333333333 m^4
+- limite élastique : 250000 Pa
+
+La poutre a résistée, la valeur de sa flèche maximale est de :  m
+
+------------------------------  27-01-2023 13:22  ------------------------------
+
+Type de simulation :
+
+Poutre console avec charge ponctuelle p à une extrémité
+
+Paramètres :
+- longueur de la poutre : 1 m
+- longueur a/m : 0 m
+- charge : 1 kg
+- matériau : Acier de construction
+- module d'Young : 210000000000 Pa
+- type de section : Rectangulaire
+- moment d'inertie : 0,0833333333333333 m^4
+- limite élastique : 250000 Pa
+
+La poutre a résistée, la valeur de sa flèche maximale est de : 1,86857142857143E-10 m
+
